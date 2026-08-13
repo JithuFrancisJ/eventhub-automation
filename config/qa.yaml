@@ -1,0 +1,11 @@
+base_url: "https://eventhub.rahulshettyacademy.com"
+api_base_url: "https://api.eventhub.rahulshettyacademy.com/api"
+urls:
+  home: "/"
+  events: "/events"
+  my_bookings: "/bookings"
+  login: "/login"
+email: null
+password: null
+browser: "chromium"
+headless: false
