@@ -8,4 +8,4 @@ urls:
 email: null
 password: null
 browser: "chromium"
-headless: false
+headless: true
